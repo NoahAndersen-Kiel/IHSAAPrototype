@@ -1,7 +1,7 @@
 # IHSAAPrototype
 This file contains instructions on how to load and run the IHSAA Gymnastics Program:
 
-Use this link https://github.butler.edu/nandersenkiel/IHSAAProject.git to view the github repository for the program. Download either the folder or the .rar file and extract it. Open visual studio and select "Open a folder". Select your downloaded folder. At this point ensure you have both the npm (requires node.js) and angular packages downloaded on your system. Once you've confirmed this, navigate in visual studio inside the opened folder to the solution file called AngularApp1.sln. Press the start button at the top of your screen.
+Use this link (https://github.com/NoahAndersen-Kiel/IHSAAPrototype) to view the github repository for the program. Download either the folder or the .rar file and extract it. Open visual studio and select "Open a folder". Select your downloaded folder. At this point ensure you have both the npm (requires node.js) and angular packages downloaded on your system. Once you've confirmed this, navigate in visual studio inside the opened folder to the solution file called AngularApp1.sln. Press the start button at the top of your screen.
 
 The program will take about 15 seconds to load and the database will take about a minute to boot up since it's a student database that remains offline until queried. You can tell when the database has gone online when the dropdown boxes expand and populate. It will remain online while the program is being actively used but will return offline after a few minutes of inactivity.
 
