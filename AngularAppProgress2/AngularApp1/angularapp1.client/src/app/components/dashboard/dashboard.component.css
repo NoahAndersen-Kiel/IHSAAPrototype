@@ -1,0 +1,30 @@
+.filters {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.dashboard {
+  display: flex;
+  flex-direction: column;
+  color: #FFFFFF;
+  min-height: 100vh;
+}
+
+.top-buttons button {
+  margin-right: 10px; /* Add space between buttons */
+  background-color: #FFFFFF; /* White background for the buttons */
+  color: #000000; /* Black text color */
+}
+
+.meet-selector, .school-selector {
+  flex: 1; /* This will ensure it takes up equal space */
+  display: flex;
+  justify-content: center; /* Centering the select element */
+  align-items: center;
+  margin: 10px;
+}
+
+  .meet-selector select, .school-selector select {
+    padding: 5px;
+  }

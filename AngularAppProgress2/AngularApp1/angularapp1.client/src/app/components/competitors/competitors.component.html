@@ -1,0 +1,53 @@
+<table>
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>PID</th>
+            <th>Name</th>
+            <th>School Name</th>
+            <th>Bar Position</th>
+            <th>Beam Position</th>
+            <th>Floor Position</th>
+            <th>Vault Position</th>
+            <th>Substitute</th>
+            <th>Meet ID</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor="let competitor of competitors">
+            <td>{{ competitor.id }}</td>
+            <td>{{ competitor.pid }}</td>
+            <td>
+                <input [(ngModel)]="competitor.name" [readonly]="!competitor.isEditing">
+            </td>
+            <td>
+                <input [(ngModel)]="competitor.schoolName" [readonly]="!competitor.isEditing">
+            </td>
+            <td>
+                <input [(ngModel)]="competitor.barPos" type="number" [readonly]="!competitor.isEditing">
+            </td>
+            <td>
+                <input [(ngModel)]="competitor.beamPos" type="number" [readonly]="!competitor.isEditing">
+            </td>
+            <td>
+                <input [(ngModel)]="competitor.floorPos" type="number" [readonly]="!competitor.isEditing">
+            </td>
+            <td>
+                <input [(ngModel)]="competitor.vaultPos" type="number" [readonly]="!competitor.isEditing">
+            </td>
+            <td>
+                <select [(ngModel)]="competitor.sub" [disabled]="!competitor.isEditing">
+                    <option [ngValue]="true">Yes</option>
+                    <option [ngValue]="false">No</option>
+                </select>
+            </td>
+            <td>{{ competitor.meetId }}</td>
+            <td>
+                <button (click)="toggleEdit(competitor)">{{ competitor.isEditing ? 'Cancel' : 'Edit' }}</button>
+                <button (click)="saveCompetitor(competitor)" *ngIf="competitor.isEditing">Save</button>
+            </td>
+        </tr>
+    </tbody>
+</table>
+

@@ -1,0 +1,45 @@
+<div class="gymnast-page">
+    <div class="top-buttons">
+        <button routerLink="/dashboard" class="competitors-button">Competitors →</button>
+        <button routerLink="/meet-creation" class="meet-creation-button">Meets →</button>
+        <button routerLink="/scores" class="scores-button">Scores →</button>
+    </div>
+    <app-school-selector></app-school-selector>
+    <button (click)="addNewGymnast()" class="add-new-button">Add New Gymnast</button>
+    <table>
+        <thead>
+            <tr>
+                <th>PID</th>
+                <th>Name</th>
+                <th>School Name</th>
+                <th>Year</th>
+                <th>DoB</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr *ngFor="let gymnast of gymnasts; let i = index">
+                <td>
+                    <input [(ngModel)]="gymnast.pid" [readonly]="!gymnast.isEditing">
+                </td>
+                <td>
+                    <input [(ngModel)]="gymnast.name" [readonly]="!gymnast.isEditing">
+                </td>
+                <td>
+                    <input [(ngModel)]="gymnast.schoolName" [readonly]="!gymnast.isEditing">
+                </td>
+                <td>
+                    <input [(ngModel)]="gymnast.year" [readonly]="!gymnast.isEditing">
+                </td>
+                <td>
+                    <input [(ngModel)]="gymnast.doB" type="date" [readonly]="!gymnast.isEditing">
+                </td>
+                <td>
+                    <button (click)="toggleEdit(gymnast)">{{ gymnast.isEditing ? 'Cancel' : 'Edit' }}</button>
+                    <button (click)="saveGymnast(gymnast)" *ngIf="gymnast.isEditing">Save</button>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+
+</div>

@@ -1,0 +1,91 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = AngularApp1.Server
+build_property.RootNamespace = AngularApp1.Server
+build_property.ProjectDir = E:\Angular\AngularEPICS\AngularAppProgress2\AngularApp1\AngularApp1.Server\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = E:\Angular\AngularEPICS\AngularAppProgress2\AngularApp1\AngularApp1.Server
+build_property._RazorSourceGeneratorDebug = 
+
+[E:/Angular/AngularEPICS/AngularAppProgress2/AngularApp1/AngularApp1.Server/Views/Competitors/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGV0aXRvcnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Angular/AngularEPICS/AngularAppProgress2/AngularApp1/AngularApp1.Server/Views/Competitors/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGV0aXRvcnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Angular/AngularEPICS/AngularAppProgress2/AngularApp1/AngularApp1.Server/Views/Competitors/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGV0aXRvcnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Angular/AngularEPICS/AngularAppProgress2/AngularApp1/AngularApp1.Server/Views/Competitors/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGV0aXRvcnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Angular/AngularEPICS/AngularAppProgress2/AngularApp1/AngularApp1.Server/Views/Competitors/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGV0aXRvcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Angular/AngularEPICS/AngularAppProgress2/AngularApp1/AngularApp1.Server/Views/Meet/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVldFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Angular/AngularEPICS/AngularAppProgress2/AngularApp1/AngularApp1.Server/Views/Meet/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVldFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Angular/AngularEPICS/AngularAppProgress2/AngularApp1/AngularApp1.Server/Views/Meet/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVldFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Angular/AngularEPICS/AngularAppProgress2/AngularApp1/AngularApp1.Server/Views/Meet/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVldFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Angular/AngularEPICS/AngularAppProgress2/AngularApp1/AngularApp1.Server/Views/Meet/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVldFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Angular/AngularEPICS/AngularAppProgress2/AngularApp1/AngularApp1.Server/Views/School/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2Nob29sXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Angular/AngularEPICS/AngularAppProgress2/AngularApp1/AngularApp1.Server/Views/School/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2Nob29sXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Angular/AngularEPICS/AngularAppProgress2/AngularApp1/AngularApp1.Server/Views/School/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2Nob29sXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Angular/AngularEPICS/AngularAppProgress2/AngularApp1/AngularApp1.Server/Views/School/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2Nob29sXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Angular/AngularEPICS/AngularAppProgress2/AngularApp1/AngularApp1.Server/Views/School/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2Nob29sXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Angular/AngularEPICS/AngularAppProgress2/AngularApp1/AngularApp1.Server/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 

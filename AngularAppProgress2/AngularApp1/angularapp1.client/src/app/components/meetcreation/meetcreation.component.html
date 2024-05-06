@@ -1,0 +1,34 @@
+<div class="scores-page">
+    <div class="top-buttons">
+        <button routerLink="/dashboard" class="competitors-button">Competitors →</button>
+        <button routerLink="/gymnast" class="gymnast-button">Gymnasts →</button>
+        <button routerLink="/scores" class="scores-button">Scores →</button>
+    </div>
+    <button (click)="addNewMeet()" class="add-new-button">Add New Meet</button>
+    <table>
+        <thead>
+            <tr>
+                <th>Mid (not editable)</th>
+                <th>Host School</th>
+                <th>Time</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr *ngFor="let meet of meets; let i = index">
+                <td>{{ meet.mid }}</td>
+                <td>
+                    <input [(ngModel)]="meet.hostSchool" [readonly]="!meet.isEditing">
+                </td>
+                <td>
+                    <input [(ngModel)]="meet.time" type="datetime-local" [readonly]="!meet.isEditing">
+                </td>
+                <td>
+                    <button (click)="meet.isEditing = !meet.isEditing">{{ meet.isEditing ? 'Cancel' : 'Edit' }}</button>
+                    <button (click)="saveMeet(meet)" *ngIf="meet.isEditing">Save</button>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+

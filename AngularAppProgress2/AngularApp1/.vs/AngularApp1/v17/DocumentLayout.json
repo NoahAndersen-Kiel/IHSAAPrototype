@@ -1,0 +1,1447 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|e:\\angular\\angularepics\\angularappprogress2\\angularapp1\\angularapp1.client\\src\\app\\components\\scores\\scores.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\components\\scores\\scores.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\components\\scores\\scores.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\components\\scores\\scores.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\app.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\app.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\app.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\app.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\components\\gymnast\\gymnast.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\components\\gymnast\\gymnast.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\services\\gymnast.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\services\\gymnast.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12EFA523-C2A7-4FC5-83EF-D6C585ACBD6E}|AngularApp1.Server\\AngularApp1.Server.csproj|E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.server\\models\\gymnast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12EFA523-C2A7-4FC5-83EF-D6C585ACBD6E}|AngularApp1.Server\\AngularApp1.Server.csproj|solutionrelative:angularapp1.server\\models\\gymnast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12EFA523-C2A7-4FC5-83EF-D6C585ACBD6E}|AngularApp1.Server\\AngularApp1.Server.csproj|E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.server\\models\\competitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12EFA523-C2A7-4FC5-83EF-D6C585ACBD6E}|AngularApp1.Server\\AngularApp1.Server.csproj|solutionrelative:angularapp1.server\\models\\competitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12EFA523-C2A7-4FC5-83EF-D6C585ACBD6E}|AngularApp1.Server\\AngularApp1.Server.csproj|E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.server\\models\\indianaschool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12EFA523-C2A7-4FC5-83EF-D6C585ACBD6E}|AngularApp1.Server\\AngularApp1.Server.csproj|solutionrelative:angularapp1.server\\models\\indianaschool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\models\\gymnast.model.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\models\\gymnast.model.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12EFA523-C2A7-4FC5-83EF-D6C585ACBD6E}|AngularApp1.Server\\AngularApp1.Server.csproj|E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.server\\controllers\\gymnastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12EFA523-C2A7-4FC5-83EF-D6C585ACBD6E}|AngularApp1.Server\\AngularApp1.Server.csproj|solutionrelative:angularapp1.server\\controllers\\gymnastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12EFA523-C2A7-4FC5-83EF-D6C585ACBD6E}|AngularApp1.Server\\AngularApp1.Server.csproj|E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.server\\controllers\\scorecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12EFA523-C2A7-4FC5-83EF-D6C585ACBD6E}|AngularApp1.Server\\AngularApp1.Server.csproj|solutionrelative:angularapp1.server\\controllers\\scorecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\components\\gymnast\\gymnast.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\components\\gymnast\\gymnast.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\components\\gymnast\\gymnast.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\components\\gymnast\\gymnast.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\components\\gymnast\\gymnast.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\components\\gymnast\\gymnast.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\components\\school-selector\\school-selector.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\components\\school-selector\\school-selector.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\services\\competitor-service.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\services\\competitor-service.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12EFA523-C2A7-4FC5-83EF-D6C585ACBD6E}|AngularApp1.Server\\AngularApp1.Server.csproj|E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.server\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12EFA523-C2A7-4FC5-83EF-D6C585ACBD6E}|AngularApp1.Server\\AngularApp1.Server.csproj|solutionrelative:angularapp1.server\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\components\\competitors\\competitors.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\components\\competitors\\competitors.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\components\\dashboard\\dashboard.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\components\\dashboard\\dashboard.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12EFA523-C2A7-4FC5-83EF-D6C585ACBD6E}|AngularApp1.Server\\AngularApp1.Server.csproj|E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.server\\controllers\\competitorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12EFA523-C2A7-4FC5-83EF-D6C585ACBD6E}|AngularApp1.Server\\AngularApp1.Server.csproj|solutionrelative:angularapp1.server\\controllers\\competitorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\models\\competitor.model.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\models\\competitor.model.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\components\\scores\\scores.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\components\\scores\\scores.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\services\\score-service.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\services\\score-service.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12EFA523-C2A7-4FC5-83EF-D6C585ACBD6E}|AngularApp1.Server\\AngularApp1.Server.csproj|E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.server\\models\\score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12EFA523-C2A7-4FC5-83EF-D6C585ACBD6E}|AngularApp1.Server\\AngularApp1.Server.csproj|solutionrelative:angularapp1.server\\models\\score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\models\\score.model.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\models\\score.model.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\components\\competitors\\competitors.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\components\\competitors\\competitors.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\components\\dashboard\\dashboard.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\components\\dashboard\\dashboard.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\components\\event-selector\\event-selector.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\components\\event-selector\\event-selector.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\components\\event-selector\\event-selector.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\components\\event-selector\\event-selector.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\components\\school-selector\\school-selector.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\components\\school-selector\\school-selector.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\components\\meet-selector\\meet-selector.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\components\\meet-selector\\meet-selector.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\components\\school-selector\\school-selector.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\components\\school-selector\\school-selector.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\components\\meet-selector\\meet-selector.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\components\\meet-selector\\meet-selector.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\components\\meet-selector\\meet-selector.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\components\\meet-selector\\meet-selector.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\components\\competitors\\competitors.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\components\\competitors\\competitors.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\services\\selection.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\services\\selection.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\components\\scores\\scores.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\components\\scores\\scores.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\services\\score-service.service.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\services\\score-service.service.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12EFA523-C2A7-4FC5-83EF-D6C585ACBD6E}|AngularApp1.Server\\AngularApp1.Server.csproj|E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.server\\controllers\\meetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12EFA523-C2A7-4FC5-83EF-D6C585ACBD6E}|AngularApp1.Server\\AngularApp1.Server.csproj|solutionrelative:angularapp1.server\\controllers\\meetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12EFA523-C2A7-4FC5-83EF-D6C585ACBD6E}|AngularApp1.Server\\AngularApp1.Server.csproj|E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.server\\models\\meet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12EFA523-C2A7-4FC5-83EF-D6C585ACBD6E}|AngularApp1.Server\\AngularApp1.Server.csproj|solutionrelative:angularapp1.server\\models\\meet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\dtos\\scoreupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\dtos\\scoreupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\services\\selection.service.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\services\\selection.service.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12EFA523-C2A7-4FC5-83EF-D6C585ACBD6E}|AngularApp1.Server\\AngularApp1.Server.csproj|E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12EFA523-C2A7-4FC5-83EF-D6C585ACBD6E}|AngularApp1.Server\\AngularApp1.Server.csproj|solutionrelative:angularapp1.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\components\\event-selector\\event-selector.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\components\\event-selector\\event-selector.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\services\\competitor-service.service.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\services\\competitor-service.service.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\components\\event-selector\\event-selector.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\components\\event-selector\\event-selector.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\services\\meet-service.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\services\\meet-service.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\services\\school-service.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\services\\school-service.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\models\\meet.model.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\models\\meet.model.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\models\\indiana-school.model.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\models\\indiana-school.model.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\components\\meet-selector\\meet-selector.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\components\\meet-selector\\meet-selector.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12EFA523-C2A7-4FC5-83EF-D6C585ACBD6E}|AngularApp1.Server\\AngularApp1.Server.csproj|E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.server\\controllers\\indianaschoolcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12EFA523-C2A7-4FC5-83EF-D6C585ACBD6E}|AngularApp1.Server\\AngularApp1.Server.csproj|solutionrelative:angularapp1.server\\controllers\\indianaschoolcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\services\\meet-service.service.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\services\\meet-service.service.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\components\\competitors\\competitors.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\components\\competitors\\competitors.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\components\\dashboard\\dashboard.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\components\\dashboard\\dashboard.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\services\\school-service.service.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\services\\school-service.service.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\components\\school-selector\\school-selector.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\components\\school-selector\\school-selector.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\components\\dashboard\\dashboard.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\components\\dashboard\\dashboard.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\proxy.conf.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\proxy.conf.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\aspnetcore-https.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\aspnetcore-https.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\angular.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\angular.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\karma.conf.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\karma.conf.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\nuget.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\nuget.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12EFA523-C2A7-4FC5-83EF-D6C585ACBD6E}|AngularApp1.Server\\AngularApp1.Server.csproj|E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{12EFA523-C2A7-4FC5-83EF-D6C585ACBD6E}|AngularApp1.Server\\AngularApp1.Server.csproj|solutionrelative:angularapp1.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12EFA523-C2A7-4FC5-83EF-D6C585ACBD6E}|AngularApp1.Server\\AngularApp1.Server.csproj|E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{12EFA523-C2A7-4FC5-83EF-D6C585ACBD6E}|AngularApp1.Server\\AngularApp1.Server.csproj|solutionrelative:angularapp1.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\.editorconfig||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\.editorconfig||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12EFA523-C2A7-4FC5-83EF-D6C585ACBD6E}|AngularApp1.Server\\AngularApp1.Server.csproj|E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.server\\angularapp1.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{12EFA523-C2A7-4FC5-83EF-D6C585ACBD6E}|AngularApp1.Server\\AngularApp1.Server.csproj|solutionrelative:angularapp1.server\\angularapp1.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\.vscode\\launch.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\.vscode\\launch.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\assets\\.gitkeep||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\assets\\.gitkeep||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\angularapp1.client.esproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C172BDCE-5564-442F-96FB-15DCA183761F}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\angularapp1.client.esproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12EFA523-C2A7-4FC5-83EF-D6C585ACBD6E}|AngularApp1.Server\\AngularApp1.Server.csproj|E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.server\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{12EFA523-C2A7-4FC5-83EF-D6C585ACBD6E}|AngularApp1.Server\\AngularApp1.Server.csproj|solutionrelative:angularapp1.server\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dawnk\\source\\repos\\AngularApp1\\angularapp1.client\\node_modules\\@types\\eslint\\index.d.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dawnk\\source\\repos\\AngularApp1\\angularapp1.client\\node_modules\\@types\\babel__traverse\\index.d.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\components\\meet-creation\\meet-creation.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:angularapp1.client\\src\\app\\components\\meet-creation\\meet-creation.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\components\\meet-creation\\meet-creation.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:angularapp1.client\\src\\app\\components\\meet-creation\\meet-creation.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\components\\meet-creation\\meet-creation.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:angularapp1.client\\src\\app\\components\\meet-creation\\meet-creation.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\components\\meet-creation\\meet-creation.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:angularapp1.client\\src\\app\\components\\meet-creation\\meet-creation.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ScoreController.cs",
+              "DocumentMoniker": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\AngularApp1.Server\\Controllers\\ScoreController.cs",
+              "RelativeDocumentMoniker": "AngularApp1.Server\\Controllers\\ScoreController.cs",
+              "ToolTip": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\AngularApp1.Server\\Controllers\\ScoreController.cs",
+              "RelativeToolTip": "AngularApp1.Server\\Controllers\\ScoreController.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAswI4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T22:29:33.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GymnastController.cs",
+              "DocumentMoniker": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\AngularApp1.Server\\Controllers\\GymnastController.cs",
+              "RelativeDocumentMoniker": "AngularApp1.Server\\Controllers\\GymnastController.cs",
+              "ToolTip": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\AngularApp1.Server\\Controllers\\GymnastController.cs",
+              "RelativeToolTip": "AngularApp1.Server\\Controllers\\GymnastController.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAwwIQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T04:51:36.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IndianaSchool.cs",
+              "DocumentMoniker": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\AngularApp1.Server\\Models\\IndianaSchool.cs",
+              "RelativeDocumentMoniker": "AngularApp1.Server\\Models\\IndianaSchool.cs",
+              "ToolTip": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\AngularApp1.Server\\Models\\IndianaSchool.cs",
+              "RelativeToolTip": "AngularApp1.Server\\Models\\IndianaSchool.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T23:20:35.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Competitor.cs",
+              "DocumentMoniker": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\AngularApp1.Server\\Models\\Competitor.cs",
+              "RelativeDocumentMoniker": "AngularApp1.Server\\Models\\Competitor.cs",
+              "ToolTip": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\AngularApp1.Server\\Models\\Competitor.cs",
+              "RelativeToolTip": "AngularApp1.Server\\Models\\Competitor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T23:20:45.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "app.component.spec.ts",
+              "DocumentMoniker": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\app.component.spec.ts",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\app.component.spec.ts",
+              "ToolTip": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\app.component.spec.ts",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\app.component.spec.ts",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-03-29T23:17:23.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "app.component.html",
+              "DocumentMoniker": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\app.component.html",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\app.component.html",
+              "ToolTip": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\app.component.html",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\app.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-03-29T22:20:03.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "app.component.css",
+              "DocumentMoniker": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\app.component.css",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\app.component.css",
+              "ToolTip": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\app.component.css",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\app.component.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-29T23:28:30.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "scores.component.css",
+              "DocumentMoniker": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\components\\scores\\scores.component.css",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\components\\scores\\scores.component.css",
+              "ToolTip": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\components\\scores\\scores.component.css",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\components\\scores\\scores.component.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-21T20:10:48.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "scores.component.html",
+              "DocumentMoniker": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\components\\scores\\scores.component.html",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\components\\scores\\scores.component.html",
+              "ToolTip": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\components\\scores\\scores.component.html",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\components\\scores\\scores.component.html",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACQAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-04-21T20:10:22.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "gymnast.component.spec.ts",
+              "DocumentMoniker": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\components\\gymnast\\gymnast.component.spec.ts",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\components\\gymnast\\gymnast.component.spec.ts",
+              "ToolTip": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\components\\gymnast\\gymnast.component.spec.ts",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\components\\gymnast\\gymnast.component.spec.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-04-24T04:56:54.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "gymnast.component.ts",
+              "DocumentMoniker": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\components\\gymnast\\gymnast.component.ts",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\components\\gymnast\\gymnast.component.ts",
+              "ToolTip": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\components\\gymnast\\gymnast.component.ts",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\components\\gymnast\\gymnast.component.ts",
+              "ViewState": "AQIAADgAAAAAAAAAAAAQwFEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-04-24T04:49:20.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "gymnast.model.ts",
+              "DocumentMoniker": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\models\\gymnast.model.ts",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\models\\gymnast.model.ts",
+              "ToolTip": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\models\\gymnast.model.ts",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\models\\gymnast.model.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-04-24T03:43:27.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Gymnast.cs",
+              "DocumentMoniker": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\AngularApp1.Server\\Models\\Gymnast.cs",
+              "RelativeDocumentMoniker": "AngularApp1.Server\\Models\\Gymnast.cs",
+              "ToolTip": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\AngularApp1.Server\\Models\\Gymnast.cs",
+              "RelativeToolTip": "AngularApp1.Server\\Models\\Gymnast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T04:08:32.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "gymnast.service.ts",
+              "DocumentMoniker": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\services\\gymnast.service.ts",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\services\\gymnast.service.ts",
+              "ToolTip": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\services\\gymnast.service.ts",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\services\\gymnast.service.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-04-24T03:42:50.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "gymnast.component.html",
+              "DocumentMoniker": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\components\\gymnast\\gymnast.component.html",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\components\\gymnast\\gymnast.component.html",
+              "ToolTip": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\components\\gymnast\\gymnast.component.html",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\components\\gymnast\\gymnast.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-04-24T04:56:55.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "school-selector.component.ts",
+              "DocumentMoniker": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\components\\school-selector\\school-selector.component.ts",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\components\\school-selector\\school-selector.component.ts",
+              "ToolTip": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\components\\school-selector\\school-selector.component.ts",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\components\\school-selector\\school-selector.component.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-03-30T00:16:39.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "gymnast.component.css",
+              "DocumentMoniker": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\components\\gymnast\\gymnast.component.css",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\components\\gymnast\\gymnast.component.css",
+              "ToolTip": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\components\\gymnast\\gymnast.component.css",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\components\\gymnast\\gymnast.component.css",
+              "ViewState": "AQIAABkAAAAAAAAAAAAUwDIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-24T04:58:23.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "competitor-service.service.ts",
+              "DocumentMoniker": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\services\\competitor-service.service.ts",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\services\\competitor-service.service.ts",
+              "ToolTip": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\services\\competitor-service.service.ts",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\services\\competitor-service.service.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-03-30T00:24:09.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\AngularApp1.Server\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "AngularApp1.Server\\Data\\AppDbContext.cs",
+              "ToolTip": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\AngularApp1.Server\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "AngularApp1.Server\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T22:37:25.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "meet-creation.component.html",
+              "DocumentMoniker": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\components\\meet-creation\\meet-creation.component.html",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\components\\meet-creation\\meet-creation.component.html",
+              "ToolTip": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\components\\meet-creation\\meet-creation.component.html",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\components\\meet-creation\\meet-creation.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-04-21T21:05:48.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "app.module.ts",
+              "DocumentMoniker": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\app.module.ts",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\app.module.ts",
+              "ToolTip": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\app.module.ts",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\app.module.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-03-29T22:27:56.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "app-routing.module.ts",
+              "DocumentMoniker": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\app-routing.module.ts",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\app-routing.module.ts",
+              "ToolTip": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\app-routing.module.ts",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\app-routing.module.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-03-29T23:43:00.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "competitors.component.html",
+              "DocumentMoniker": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\components\\competitors\\competitors.component.html",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\components\\competitors\\competitors.component.html",
+              "ToolTip": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\components\\competitors\\competitors.component.html",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\components\\competitors\\competitors.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-04-17T04:04:50.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "dashboard.component.html",
+              "DocumentMoniker": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\components\\dashboard\\dashboard.component.html",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\components\\dashboard\\dashboard.component.html",
+              "ToolTip": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\components\\dashboard\\dashboard.component.html",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\components\\dashboard\\dashboard.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-04-17T04:51:44.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CompetitorController.cs",
+              "DocumentMoniker": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\AngularApp1.Server\\Controllers\\CompetitorController.cs",
+              "RelativeDocumentMoniker": "AngularApp1.Server\\Controllers\\CompetitorController.cs",
+              "ToolTip": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\AngularApp1.Server\\Controllers\\CompetitorController.cs",
+              "RelativeToolTip": "AngularApp1.Server\\Controllers\\CompetitorController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T01:23:49.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "competitor.model.ts",
+              "DocumentMoniker": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\models\\competitor.model.ts",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\models\\competitor.model.ts",
+              "ToolTip": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\models\\competitor.model.ts",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\models\\competitor.model.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-03-30T00:37:38.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "app.component.ts",
+              "DocumentMoniker": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\app.component.ts",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\app.component.ts",
+              "ToolTip": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\app.component.ts",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\app.component.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-03-29T23:16:51.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "scores.component.ts",
+              "DocumentMoniker": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\components\\scores\\scores.component.ts",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\components\\scores\\scores.component.ts",
+              "ToolTip": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\components\\scores\\scores.component.ts",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\components\\scores\\scores.component.ts",
+              "ViewState": "AQIAADEAAAAAAAAAAAAgwFwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-04-21T20:15:14.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "event-selector.component.html",
+              "DocumentMoniker": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\components\\event-selector\\event-selector.component.html",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\components\\event-selector\\event-selector.component.html",
+              "ToolTip": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\components\\event-selector\\event-selector.component.html",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\components\\event-selector\\event-selector.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-04-21T20:41:35.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "score-service.service.ts",
+              "DocumentMoniker": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\services\\score-service.service.ts",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\services\\score-service.service.ts",
+              "ToolTip": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\services\\score-service.service.ts",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\services\\score-service.service.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAgwBwAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-04-21T20:46:07.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Score.cs",
+              "DocumentMoniker": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\AngularApp1.Server\\Models\\Score.cs",
+              "RelativeDocumentMoniker": "AngularApp1.Server\\Models\\Score.cs",
+              "ToolTip": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\AngularApp1.Server\\Models\\Score.cs",
+              "RelativeToolTip": "AngularApp1.Server\\Models\\Score.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA1wBUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T20:00:12.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "score.model.ts",
+              "DocumentMoniker": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\models\\score.model.ts",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\models\\score.model.ts",
+              "ToolTip": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\models\\score.model.ts",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\models\\score.model.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-04-21T20:00:43.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "event-selector.component.css",
+              "DocumentMoniker": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\components\\event-selector\\event-selector.component.css",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\components\\event-selector\\event-selector.component.css",
+              "ToolTip": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\components\\event-selector\\event-selector.component.css",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\components\\event-selector\\event-selector.component.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-21T21:05:19.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "dashboard.component.css",
+              "DocumentMoniker": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\components\\dashboard\\dashboard.component.css",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\components\\dashboard\\dashboard.component.css",
+              "ToolTip": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\components\\dashboard\\dashboard.component.css",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\components\\dashboard\\dashboard.component.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-17T04:51:56.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "competitors.component.css",
+              "DocumentMoniker": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\components\\competitors\\competitors.component.css",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\components\\competitors\\competitors.component.css",
+              "ToolTip": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\components\\competitors\\competitors.component.css",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\components\\competitors\\competitors.component.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-17T04:04:49.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "meet-creation.component.css",
+              "DocumentMoniker": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\components\\meet-creation\\meet-creation.component.css",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\components\\meet-creation\\meet-creation.component.css",
+              "ToolTip": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\components\\meet-creation\\meet-creation.component.css",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\components\\meet-creation\\meet-creation.component.css",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-21T21:29:15.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "school-selector.component.html",
+              "DocumentMoniker": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\components\\school-selector\\school-selector.component.html",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\components\\school-selector\\school-selector.component.html",
+              "ToolTip": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\components\\school-selector\\school-selector.component.html",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\components\\school-selector\\school-selector.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-03-30T00:17:14.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "meet-selector.component.html",
+              "DocumentMoniker": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\components\\meet-selector\\meet-selector.component.html",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\components\\meet-selector\\meet-selector.component.html",
+              "ToolTip": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\components\\meet-selector\\meet-selector.component.html",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\components\\meet-selector\\meet-selector.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-03-30T00:10:12.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "school-selector.component.css",
+              "DocumentMoniker": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\components\\school-selector\\school-selector.component.css",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\components\\school-selector\\school-selector.component.css",
+              "ToolTip": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\components\\school-selector\\school-selector.component.css",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\components\\school-selector\\school-selector.component.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-30T00:16:25.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "meet-selector.component.css",
+              "DocumentMoniker": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\components\\meet-selector\\meet-selector.component.css",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\components\\meet-selector\\meet-selector.component.css",
+              "ToolTip": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\components\\meet-selector\\meet-selector.component.css",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\components\\meet-selector\\meet-selector.component.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-30T00:10:21.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "styles.css",
+              "DocumentMoniker": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\styles.css",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\styles.css",
+              "ToolTip": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\styles.css",
+              "RelativeToolTip": "angularapp1.client\\src\\styles.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-30T01:16:16.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "meet-selector.component.ts",
+              "DocumentMoniker": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\components\\meet-selector\\meet-selector.component.ts",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\components\\meet-selector\\meet-selector.component.ts",
+              "ToolTip": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\components\\meet-selector\\meet-selector.component.ts",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\components\\meet-selector\\meet-selector.component.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-03-30T00:10:29.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "competitors.component.ts",
+              "DocumentMoniker": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\components\\competitors\\competitors.component.ts",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\components\\competitors\\competitors.component.ts",
+              "ToolTip": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\components\\competitors\\competitors.component.ts",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\components\\competitors\\competitors.component.ts",
+              "ViewState": "AQIAACIAAAAAAAAAAAAgwEUAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-04-17T04:24:03.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "selection.service.ts",
+              "DocumentMoniker": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\services\\selection.service.ts",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\services\\selection.service.ts",
+              "ToolTip": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\services\\selection.service.ts",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\services\\selection.service.ts",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-04-17T05:18:39.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "scores.component.spec.ts",
+              "DocumentMoniker": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\components\\scores\\scores.component.spec.ts",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\components\\scores\\scores.component.spec.ts",
+              "ToolTip": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\components\\scores\\scores.component.spec.ts",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\components\\scores\\scores.component.spec.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-04-21T20:19:19.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "score-service.service.spec.ts",
+              "DocumentMoniker": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\services\\score-service.service.spec.ts",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\services\\score-service.service.spec.ts",
+              "ToolTip": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\services\\score-service.service.spec.ts",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\services\\score-service.service.spec.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-04-21T21:25:15.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "meet-creation.component.ts",
+              "DocumentMoniker": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\components\\meet-creation\\meet-creation.component.ts",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\components\\meet-creation\\meet-creation.component.ts",
+              "ToolTip": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\components\\meet-creation\\meet-creation.component.ts",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\components\\meet-creation\\meet-creation.component.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-04-21T21:29:17.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "MeetController.cs",
+              "DocumentMoniker": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\AngularApp1.Server\\Controllers\\MeetController.cs",
+              "RelativeDocumentMoniker": "AngularApp1.Server\\Controllers\\MeetController.cs",
+              "ToolTip": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\AngularApp1.Server\\Controllers\\MeetController.cs",
+              "RelativeToolTip": "AngularApp1.Server\\Controllers\\MeetController.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAIwEIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T08:51:25.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Meet.cs",
+              "DocumentMoniker": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\AngularApp1.Server\\Models\\Meet.cs",
+              "RelativeDocumentMoniker": "AngularApp1.Server\\Models\\Meet.cs",
+              "ToolTip": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\AngularApp1.Server\\Models\\Meet.cs",
+              "RelativeToolTip": "AngularApp1.Server\\Models\\Meet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T23:20:10.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ScoreUpdateDto.cs",
+              "DocumentMoniker": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\DTOs\\ScoreUpdateDto.cs",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\DTOs\\ScoreUpdateDto.cs",
+              "ToolTip": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\DTOs\\ScoreUpdateDto.cs",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\DTOs\\ScoreUpdateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T03:25:56.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "event-selector.component.ts",
+              "DocumentMoniker": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\components\\event-selector\\event-selector.component.ts",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\components\\event-selector\\event-selector.component.ts",
+              "ToolTip": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\components\\event-selector\\event-selector.component.ts",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\components\\event-selector\\event-selector.component.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-04-21T20:41:43.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\AngularApp1.Server\\Program.cs",
+              "RelativeDocumentMoniker": "AngularApp1.Server\\Program.cs",
+              "ToolTip": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\AngularApp1.Server\\Program.cs",
+              "RelativeToolTip": "AngularApp1.Server\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T22:53:31.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "selection.service.spec.ts",
+              "DocumentMoniker": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\services\\selection.service.spec.ts",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\services\\selection.service.spec.ts",
+              "ToolTip": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\services\\selection.service.spec.ts",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\services\\selection.service.spec.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-04-17T05:18:38.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "competitor-service.service.spec.ts",
+              "DocumentMoniker": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\services\\competitor-service.service.spec.ts",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\services\\competitor-service.service.spec.ts",
+              "ToolTip": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\services\\competitor-service.service.spec.ts",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\services\\competitor-service.service.spec.ts",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAowCAAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-04-17T06:52:21.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "event-selector.component.spec.ts",
+              "DocumentMoniker": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\components\\event-selector\\event-selector.component.spec.ts",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\components\\event-selector\\event-selector.component.spec.ts",
+              "ToolTip": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\components\\event-selector\\event-selector.component.spec.ts",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\components\\event-selector\\event-selector.component.spec.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-04-21T21:19:31.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "meet-service.service.ts",
+              "DocumentMoniker": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\services\\meet-service.service.ts",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\services\\meet-service.service.ts",
+              "ToolTip": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\services\\meet-service.service.ts",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\services\\meet-service.service.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-03-30T01:08:37.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "school-service.service.ts",
+              "DocumentMoniker": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\services\\school-service.service.ts",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\services\\school-service.service.ts",
+              "ToolTip": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\services\\school-service.service.ts",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\services\\school-service.service.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-03-30T01:08:39.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "indiana-school.model.ts",
+              "DocumentMoniker": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\models\\indiana-school.model.ts",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\models\\indiana-school.model.ts",
+              "ToolTip": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\models\\indiana-school.model.ts",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\models\\indiana-school.model.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-03-30T03:20:08.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "meet.model.ts",
+              "DocumentMoniker": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\models\\meet.model.ts",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\models\\meet.model.ts",
+              "ToolTip": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\models\\meet.model.ts",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\models\\meet.model.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-03-30T03:20:26.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "meet-selector.component.spec.ts",
+              "DocumentMoniker": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\components\\meet-selector\\meet-selector.component.spec.ts",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\components\\meet-selector\\meet-selector.component.spec.ts",
+              "ToolTip": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\components\\meet-selector\\meet-selector.component.spec.ts",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\components\\meet-selector\\meet-selector.component.spec.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-03-30T00:11:18.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "meet-creation.component.spec.ts",
+              "DocumentMoniker": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\components\\meet-creation\\meet-creation.component.spec.ts",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\components\\meet-creation\\meet-creation.component.spec.ts",
+              "ToolTip": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\components\\meet-creation\\meet-creation.component.spec.ts",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\components\\meet-creation\\meet-creation.component.spec.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-04-21T21:29:16.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "IndianaSchoolController.cs",
+              "DocumentMoniker": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\AngularApp1.Server\\Controllers\\IndianaSchoolController.cs",
+              "RelativeDocumentMoniker": "AngularApp1.Server\\Controllers\\IndianaSchoolController.cs",
+              "ToolTip": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\AngularApp1.Server\\Controllers\\IndianaSchoolController.cs",
+              "RelativeToolTip": "AngularApp1.Server\\Controllers\\IndianaSchoolController.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAcwBgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T08:52:06.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "meet-service.service.spec.ts",
+              "DocumentMoniker": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\services\\meet-service.service.spec.ts",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\services\\meet-service.service.spec.ts",
+              "ToolTip": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\services\\meet-service.service.spec.ts",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\services\\meet-service.service.spec.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-03-30T01:08:36.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "competitors.component.spec.ts",
+              "DocumentMoniker": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\components\\competitors\\competitors.component.spec.ts",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\components\\competitors\\competitors.component.spec.ts",
+              "ToolTip": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\components\\competitors\\competitors.component.spec.ts",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\components\\competitors\\competitors.component.spec.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-04-17T04:04:52.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "dashboard.component.ts",
+              "DocumentMoniker": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\components\\dashboard\\dashboard.component.ts",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\components\\dashboard\\dashboard.component.ts",
+              "ToolTip": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\components\\dashboard\\dashboard.component.ts",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\components\\dashboard\\dashboard.component.ts",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-04-17T05:07:17.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "school-service.service.spec.ts",
+              "DocumentMoniker": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\services\\school-service.service.spec.ts",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\services\\school-service.service.spec.ts",
+              "ToolTip": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\services\\school-service.service.spec.ts",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\services\\school-service.service.spec.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-03-30T01:08:38.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "school-selector.component.spec.ts",
+              "DocumentMoniker": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\components\\school-selector\\school-selector.component.spec.ts",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\components\\school-selector\\school-selector.component.spec.ts",
+              "ToolTip": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\components\\school-selector\\school-selector.component.spec.ts",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\components\\school-selector\\school-selector.component.spec.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-03-30T00:17:26.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "dashboard.component.spec.ts",
+              "DocumentMoniker": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\components\\dashboard\\dashboard.component.spec.ts",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\components\\dashboard\\dashboard.component.spec.ts",
+              "ToolTip": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\app\\components\\dashboard\\dashboard.component.spec.ts",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\components\\dashboard\\dashboard.component.spec.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-04-17T05:12:01.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "main.ts",
+              "DocumentMoniker": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\main.ts",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\main.ts",
+              "ToolTip": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\main.ts",
+              "RelativeToolTip": "angularapp1.client\\src\\main.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-03-29T23:17:36.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "index.html",
+              "DocumentMoniker": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\index.html",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\index.html",
+              "ToolTip": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\index.html",
+              "RelativeToolTip": "angularapp1.client\\src\\index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-03-30T01:16:08.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "proxy.conf.js",
+              "DocumentMoniker": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\proxy.conf.js",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\proxy.conf.js",
+              "ToolTip": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\proxy.conf.js",
+              "RelativeToolTip": "angularapp1.client\\src\\proxy.conf.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-30T01:16:15.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "angular.json",
+              "DocumentMoniker": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\angular.json",
+              "RelativeDocumentMoniker": "angularapp1.client\\angular.json",
+              "ToolTip": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\angular.json",
+              "RelativeToolTip": "angularapp1.client\\angular.json",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-29T23:33:34.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "aspnetcore-https.js",
+              "DocumentMoniker": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\aspnetcore-https.js",
+              "RelativeDocumentMoniker": "angularapp1.client\\aspnetcore-https.js",
+              "ToolTip": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\aspnetcore-https.js",
+              "RelativeToolTip": "angularapp1.client\\aspnetcore-https.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-29T23:33:43.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "karma.conf.js",
+              "DocumentMoniker": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\karma.conf.js",
+              "RelativeDocumentMoniker": "angularapp1.client\\karma.conf.js",
+              "ToolTip": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\karma.conf.js",
+              "RelativeToolTip": "angularapp1.client\\karma.conf.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-30T01:16:19.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "nuget.config",
+              "DocumentMoniker": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\nuget.config",
+              "RelativeDocumentMoniker": "angularapp1.client\\nuget.config",
+              "ToolTip": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\nuget.config",
+              "RelativeToolTip": "angularapp1.client\\nuget.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-03-30T01:16:19.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "package.json",
+              "DocumentMoniker": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\package.json",
+              "RelativeDocumentMoniker": "angularapp1.client\\package.json",
+              "ToolTip": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\package.json",
+              "RelativeToolTip": "angularapp1.client\\package.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-02T17:49:33.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "README.md",
+              "DocumentMoniker": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\README.md",
+              "RelativeDocumentMoniker": "angularapp1.client\\README.md",
+              "ToolTip": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\README.md",
+              "RelativeToolTip": "angularapp1.client\\README.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-04-03T05:45:41.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "tsconfig.json",
+              "DocumentMoniker": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\tsconfig.json",
+              "RelativeDocumentMoniker": "angularapp1.client\\tsconfig.json",
+              "ToolTip": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\tsconfig.json",
+              "RelativeToolTip": "angularapp1.client\\tsconfig.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-29T23:56:20.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\AngularApp1.Server\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "AngularApp1.Server\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\AngularApp1.Server\\Properties\\launchSettings.json",
+              "RelativeToolTip": "AngularApp1.Server\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-30T01:16:21.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\AngularApp1.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "AngularApp1.Server\\appsettings.json",
+              "ToolTip": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\AngularApp1.Server\\appsettings.json",
+              "RelativeToolTip": "AngularApp1.Server\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-29T22:40:10.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": ".editorconfig",
+              "DocumentMoniker": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\.editorconfig",
+              "RelativeDocumentMoniker": "angularapp1.client\\.editorconfig",
+              "ToolTip": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\.editorconfig",
+              "RelativeToolTip": "angularapp1.client\\.editorconfig",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-30T01:16:16.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "AngularApp1.Server.csproj",
+              "DocumentMoniker": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\AngularApp1.Server\\AngularApp1.Server.csproj",
+              "RelativeDocumentMoniker": "AngularApp1.Server\\AngularApp1.Server.csproj",
+              "ToolTip": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\AngularApp1.Server\\AngularApp1.Server.csproj",
+              "RelativeToolTip": "AngularApp1.Server\\AngularApp1.Server.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-29T22:34:05.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "launch.json",
+              "DocumentMoniker": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\.vscode\\launch.json",
+              "RelativeDocumentMoniker": "angularapp1.client\\.vscode\\launch.json",
+              "ToolTip": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\.vscode\\launch.json",
+              "RelativeToolTip": "angularapp1.client\\.vscode\\launch.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-29T23:33:28.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": ".gitignore",
+              "DocumentMoniker": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\.gitignore",
+              "RelativeDocumentMoniker": "angularapp1.client\\.gitignore",
+              "ToolTip": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\.gitignore",
+              "RelativeToolTip": "angularapp1.client\\.gitignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-29T23:33:32.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": ".gitkeep",
+              "DocumentMoniker": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\assets\\.gitkeep",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\assets\\.gitkeep",
+              "ToolTip": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\src\\assets\\.gitkeep",
+              "RelativeToolTip": "angularapp1.client\\src\\assets\\.gitkeep",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-30T01:16:06.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "index.d.ts",
+              "DocumentMoniker": "C:\\Users\\dawnk\\source\\repos\\AngularApp1\\angularapp1.client\\node_modules\\@types\\babel__traverse\\index.d.ts",
+              "ToolTip": "C:\\Users\\dawnk\\source\\repos\\AngularApp1\\angularapp1.client\\node_modules\\@types\\babel__traverse\\index.d.ts",
+              "ViewState": "AQIAAOUDAAAAAAAAAAAAwPUDAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-03-29T23:52:37.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "index.d.ts",
+              "DocumentMoniker": "C:\\Users\\dawnk\\source\\repos\\AngularApp1\\angularapp1.client\\node_modules\\@types\\eslint\\index.d.ts",
+              "ToolTip": "C:\\Users\\dawnk\\source\\repos\\AngularApp1\\angularapp1.client\\node_modules\\@types\\eslint\\index.d.ts",
+              "ViewState": "AQIAAE4CAAAAAAAAAAAAwF4CAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-03-29T23:52:53.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "angularapp1.client.esproj",
+              "DocumentMoniker": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\angularapp1.client.esproj",
+              "RelativeDocumentMoniker": "angularapp1.client\\angularapp1.client.esproj",
+              "ToolTip": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\angularapp1.client\\angularapp1.client.esproj",
+              "RelativeToolTip": "angularapp1.client\\angularapp1.client.esproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-29T23:38:07.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\AngularApp1.Server\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "AngularApp1.Server\\appsettings.Development.json",
+              "ToolTip": "E:\\Angular\\AngularEPICS\\AngularAppProgress2\\AngularApp1\\AngularApp1.Server\\appsettings.Development.json",
+              "RelativeToolTip": "AngularApp1.Server\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-29T23:16:44.906Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

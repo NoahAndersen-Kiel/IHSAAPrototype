@@ -1,0 +1,29 @@
+.scores-page {
+  color: #FFFFFF; /* Assuming white text color fits well with the blue background */
+  padding: 20px; /* Add padding if necessary */
+  min-height: 100vh; /* Ensures it covers the full view height */
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  background-color: #FFFFFF; /* White background for the table */
+}
+
+th, td {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+  color: #000000; /* Black text color for content in cells */
+}
+
+th {
+  background-color: #000000;/* Blue background for headers */
+  color: #FFFFFF;
+}
+
+.top-buttons button {
+  margin-right: 10px; /* Add space between buttons */
+  background-color: #FFFFFF; /* White background for the buttons */
+  color: #000000; /* Black text color */
+}

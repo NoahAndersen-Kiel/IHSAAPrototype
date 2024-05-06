@@ -1,0 +1,9 @@
+<div class="event-selector">
+    <label for="eventSelect">Select an Event:</label>
+    <select id="eventSelect" name="eventSelect" class="form-control" [(ngModel)]="selectedEvent" (change)="onEventSelected()">
+        <option value="Bar">Bar</option>
+        <option value="Beam">Beam</option>
+        <option value="Floor">Floor</option>
+        <option value="Vault">Vault</option>
+    </select>
+</div>

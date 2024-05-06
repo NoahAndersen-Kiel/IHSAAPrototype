@@ -1,0 +1,11 @@
+.meet-selector {
+  margin: 10px 0;
+  color: #FFFFFF; /* Black text color */
+}
+
+  .meet-selector select {
+    padding: 5px;
+    margin-left: 10px;
+    background-color: #FFFFFF; /* White background */
+    color: #000000; /* Black text color */
+  }

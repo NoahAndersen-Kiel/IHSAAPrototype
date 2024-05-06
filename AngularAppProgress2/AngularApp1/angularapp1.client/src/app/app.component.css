@@ -1,0 +1,52 @@
+:host {
+  max-width: 1280px;
+  margin: auto;
+  padding: 2rem;
+  text-align: center; /* Ensures that the text aligns center */
+  position: relative; /* Ensures the host element controls the relative positioning */
+}
+
+.header-container {
+  position: relative; /* The base position for absolute children */
+  display: flex;
+  justify-content: center; /* This will ensure the header text remains centered */
+  align-items: center;
+  min-height: 150px; /* Adjust based on your actual header height */
+}
+
+.logo {
+  height: 150px;
+  width: auto;
+  position: absolute;
+  top: 0; /* Aligns top of logo with top of header container */
+}
+
+.left-logo {
+  left: 10%; /* Adjusts distance from the left */
+}
+
+.right-logo {
+  right: 10%; /* Adjusts distance from the right */
+}
+
+h1 {
+  position: relative; /* Ensures h1 is relatively positioned to its container */
+  z-index: 2; /* Ensures it's on top and not obscured by absolutely positioned logos */
+}
+
+tr:nth-child(even) {
+  background: #F2F2F2;
+}
+
+tr:nth-child(odd) {
+  background: #FFF;
+}
+
+th, td {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+table {
+  margin: 0 auto; /* Centers the table */
+}

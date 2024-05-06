@@ -1,0 +1,17 @@
+table {
+  width: 100%;
+  border-collapse: collapse;
+  background-color: #FFFFFF; /* White background for the table */
+}
+
+th, td {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+  color: #000000; /* Black text color for content in cells */
+}
+
+th {
+  background-color: #000000; /* Black background for headers */
+  color: #FFFFFF; /* White text for headers for better contrast */
+}

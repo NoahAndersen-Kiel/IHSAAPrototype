@@ -1,0 +1,14 @@
+<div class="dashboard">
+    <div class="top-buttons" style="display: flex; justify-content: center; margin-bottom: 20px;">
+        <button routerLink="/gymnast" class="gymnast-button">Gymnasts →</button>
+        <button routerLink="/meet-creation" class="meet-creation-button">Meets →</button>
+        <button routerLink="/scores" class="scores-button">Scores →</button>
+    </div>
+    <div class="filters">
+        <app-school-selector></app-school-selector>
+        <app-meet-selector></app-meet-selector>
+    </div>
+    <div class="content">
+        <app-competitors *ngIf="selectedSchool && selectedMeetId" [schoolName]="selectedSchool" [meetId]="selectedMeetId"></app-competitors>
+    </div>
+</div>

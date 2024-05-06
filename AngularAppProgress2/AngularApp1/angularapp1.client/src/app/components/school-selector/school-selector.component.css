@@ -1,0 +1,11 @@
+.school-selector {
+  margin: 10px 0;
+  color: #FFFFFF;
+}
+
+  .school-selector select {
+    padding: 5px;
+    margin-left: 10px;
+    color: #000000; /* Black text color */
+    background-color: #FFFFFF; /* White background */
+  }

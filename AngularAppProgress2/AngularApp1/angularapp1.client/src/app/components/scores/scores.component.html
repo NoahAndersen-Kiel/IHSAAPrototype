@@ -1,0 +1,64 @@
+<div class="scores-page">
+    <div class="top-buttons">
+        <button routerLink="/dashboard" class="competitors-button">Competitors →</button>
+        <button routerLink="/meet-creation" class="meet-creation-button">Meets →</button>
+        <button routerLink="/gymnast" class="gymnast-button">Gymnasts →</button>
+    </div>
+    <app-meet-selector></app-meet-selector>
+    <app-event-selector></app-event-selector>
+
+    <table>
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th *ngIf="selectedEvent !== 'Vault'">Judge 1</th>
+                <th *ngIf="selectedEvent !== 'Vault'">Judge 2</th>
+                <th *ngIf="selectedEvent === 'Vault'">Judge 1 Attempt 1</th>
+                <th *ngIf="selectedEvent === 'Vault'">Judge 2 Attempt 1</th>
+                <th *ngIf="selectedEvent === 'Vault'">Judge 1 Attempt 2</th>
+                <th *ngIf="selectedEvent === 'Vault'">Judge 2 Attempt 2</th>
+                <th>Deduction{{selectedEvent === 'Vault' ? ' Attempt 1' : ''}}</th>
+                <th *ngIf="selectedEvent === 'Vault'">Deduction Attempt 2</th>
+                <th>Score</th>
+                <th>Place</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr *ngFor="let score of scores; let i = index">
+                <td>{{ score.name }}</td>
+                <td *ngIf="selectedEvent !== 'Vault'">
+                    <input [(ngModel)]="score.judge1" type="number" [readonly]="!score.isEditing">
+                </td>
+                <td *ngIf="selectedEvent !== 'Vault'">
+                    <input [(ngModel)]="score.judge2" type="number" [readonly]="!score.isEditing">
+                </td>
+                <td *ngIf="selectedEvent === 'Vault'">
+                    <input [(ngModel)]="score.judge1" type="number" [readonly]="!score.isEditing">
+                </td>
+                <td *ngIf="selectedEvent === 'Vault'">
+                    <input [(ngModel)]="score.judge2" type="number" [readonly]="!score.isEditing">
+                </td>
+                <td *ngIf="selectedEvent === 'Vault'">
+                    <input [(ngModel)]="score.judge12" type="number" [readonly]="!score.isEditing">
+                </td>
+                <td *ngIf="selectedEvent === 'Vault'">
+                    <input [(ngModel)]="score.judge22" type="number" [readonly]="!score.isEditing">
+                </td>
+                <td>
+                    <input [(ngModel)]="score.ded1" type="number" [readonly]="!score.isEditing">
+                </td>
+                <td *ngIf="selectedEvent === 'Vault'">
+                    <input [(ngModel)]="score.ded2" type="number" [readonly]="!score.isEditing">
+                </td>
+                <td>{{ score.maxScore }}</td>
+                <td>{{ score.place }}</td>
+                <td>
+                    <button (click)="toggleEdit(i)">{{ score.isEditing ? 'Cancel' : 'Edit' }}</button>
+                    <button (click)="saveScore(score)" *ngIf="score.isEditing">Save</button>
+
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>

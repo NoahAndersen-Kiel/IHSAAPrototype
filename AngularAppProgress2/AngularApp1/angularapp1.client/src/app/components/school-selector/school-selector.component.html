@@ -1,0 +1,10 @@
+<div class="school-selector">
+    <label for="schoolSelect">Select a School:</label>
+    <select id="schoolSelect" (change)="onChange($event)">
+        <option value="null">Any School</option> <!-- Added option for 'Any School' -->
+        <option *ngFor="let school of schools" [value]="school.schoolName">
+            {{ school.schoolName }}
+        </option>
+    </select>
+</div>
+

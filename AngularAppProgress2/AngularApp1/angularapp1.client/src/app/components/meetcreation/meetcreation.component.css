@@ -1,0 +1,61 @@
+.meet-creation {
+  background-color: #0088CE;
+  color: #FFFFFF;
+  padding: 20px;
+  min-height: 100vh;
+}
+
+.top-buttons button {
+  margin-right: 10px; /* Space between buttons */
+  background-color: #FFFFFF;
+  color: #000000;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  background-color: #FFFFFF;
+  color: #000000;
+}
+
+th, td {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 0.5rem; /* Adjusted padding */
+  vertical-align: middle; /* Align content vertically in the middle */
+}
+
+th {
+  background-color: #000000;
+  color: #FFFFFF;
+}
+
+input {
+  width: 100%; /* Makes input take the full cell width */
+  border: none; /* Removes border */
+  padding: 8px; /* Comfortable padding inside the input */
+  box-sizing: border-box; /* Includes padding and border in the width */
+}
+
+  input[readonly] {
+    background: transparent; /* Makes readonly fields less obtrusive */
+    color: inherit; /* Inherits text color from parent */
+    cursor: default; /* Normal cursor on hover */
+  }
+
+tbody tr:last-child td {
+  border-bottom: none; /* Removes bottom border from last row to avoid overlap if any */
+}
+
+.add-new-button {
+  margin: 10px 0;
+  padding: 8px 16px;
+  background-color: #000000; /* Green background */
+  color: white; /* White text */
+  border: none;
+  cursor: pointer;
+}.top-buttons button {
+  margin-right: 10px; /* Add space between buttons */
+  background-color: #FFFFFF; /* White background for the buttons */
+  color: #000000; /* Black text color */
+}
