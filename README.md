@@ -14,3 +14,8 @@ Meets-> You can edit each rows info by clicking the edit button in the Actions C
 Gymnasts-> You can edit each rows info by clicking the edit button in the Actions Column. To add a new gymnast click on the black button towards the top of the page reading "Add New Gymnast". You can then fill in the information needed and either click Save or Cancel in the Actions column of the new row.
 
 Scores-> There are two drop down boxes which help select which meet and which event you want to view and edit the information of. You can edit each rows info by clicking the edit button in the Actions Column.
+
+
+Planned Additions (In Progress)
+- Adding competitors populated from gymnasts table
+- Automatically adding score rows for newly registered competitors for respective meets/events
